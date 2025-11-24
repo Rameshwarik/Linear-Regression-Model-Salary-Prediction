@@ -5,9 +5,6 @@
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 <br>
-
-
-
 <h1 align="center">Linear Regression Model – Salary Prediction</h1>
 
 <p align="center">
