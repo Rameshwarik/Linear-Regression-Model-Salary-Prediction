@@ -6,10 +6,7 @@
 
 <br>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/200/000000/external-regression-data-science-flatart-icons-outline-flatarticons.png" width="120"/>
-</p>
+
 
 <h1 align="center">Linear Regression Model – Salary Prediction</h1>
 
